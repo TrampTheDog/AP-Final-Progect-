@@ -1,0 +1,127 @@
+body{
+    background-image: url("homepage_background.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 2600px 1500px;
+}
+
+.image{
+     border-bottom: 6px solid darkblue;
+     border-top: 6px solid darkblue;
+     border-left: 6px solid darkblue;
+     border-right: 6px solid darkblue;
+     margin-top: -5%;
+     margin-left: 60%;
+     list-style-type: none;
+    }
+
+
+ ul.txtbox{
+  background-color:aliceblue;
+  border-bottom: 6px solid darkblue;
+  border-top: 6px solid darkblue;
+  border-left: 6px solid darkblue;
+  border-right: 6px solid darkblue;
+  margin-top: 5%;
+  font-size: 230%;
+  margin-left: 5%;
+  margin-right: 50%;
+  list-style-type: none;
+}
+
+ ul.txtbox1{
+  background-color:aliceblue;
+  border-bottom: 6px solid darkblue;
+  border-top: 6px solid darkblue;
+  border-left: 6px solid darkblue;
+  border-right: 6px solid darkblue;
+  margin-top: -20%;
+  font-size: 230%;
+  margin-left: 5%;
+  margin-right: 50%;
+  list-style-type: none;
+} 
+
+.listadd{
+    background-color:aliceblue;
+    border-bottom: 6px solid darkblue;
+    border-top: 6px solid darkblue;
+    border-left: 6px solid darkblue;
+    border-right: 6px solid darkblue;
+    margin-top: 5%;
+    list-style-type: none;
+    font-size: 150%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+.listadd1{
+    background-color:aliceblue;
+    border-bottom: 3px solid darkblue;
+    border-top: 3px solid darkblue;
+    border-left: 3px solid darkblue;
+    border-right: 3px solid darkblue;
+    list-style-type: none;
+    font-size: 150%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+}
+ 
+
+.p1{
+    font-size: 50;
+    
+}
+
+.nav_txt{
+    font-size: 130%;
+    background: darkblue;
+    
+}
+
+.nav_txt_head{
+    font-size: 140%;
+    font-family: sans-serif;
+    color:whitesmoke;
+    background: darkred;
+    
+    
+}
+
+.h1{
+    background-color: lightblue;
+    border-style: solid;
+    margin-right: 65%;
+}
+
+.navbar {
+  width: 100%;
+  background-image: url("Supreme.jpg");
+  background-size: 200px 100px;
+  overflow: auto;
+  position: absolute;
+  top: 15;
+  left: 0;
+}
+
+.navbar a {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+    
+    
+
+
+    
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+    
